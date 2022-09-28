@@ -1,0 +1,23 @@
+<resources>
+    <style name="Theme.YourApp" parent="Theme.Pomelo.Paradis">
+        <item name="pomeloFeedbackErrorDrawable">@drawable/pomelo_ui_image_feedback_error</item>
+        <item name="pomeloFeedbackInfoDrawable">@drawable/pomelo_ui_image_feedback_info</item>
+        <item name="pomeloFeedbackSuccessDrawable">@drawable/pomelo_ui_image_feedback_success</item>
+        <item name="pomeloFeedbackWaitingDrawable">@drawable/pomelo_ui_image_feedback_waiting</item>
+        <item name="pomeloFeedbackWarningDrawable">@drawable/pomelo_ui_image_feedback_warning</item>
+        <item name="pomeloCloseDrawable">@drawable/pomelo_ui_icon_close</item>
+
+        <item name="pomeloIdentityCameraDrawable">@drawable/pomelo_identity_image_camera</item>
+        <item name="pomeloIdentityCardIdDrawable">@drawable/pomelo_identity_image_card_id</item>
+        <item name="android:windowAnimationStyle">@style/CustomActivityAnimation</item>
+        <item name="pomeloIdentityCameraFlashActiveDrawable">@drawable/pomelo_identity_icon_camera_flash_active</item>
+        <item name="pomeloIdentityCameraFlashInactiveDrawable">@drawable/pomelo_identity_icon_camera_flash_inactive</item>
+    </style>
+
+    <style name="CustomActivityAnimation" parent="@android:style/Animation.Activity">
+        <item name="android:activityOpenEnterAnimation">@anim/enter_from_right</item>
+        <item name="android:activityOpenExitAnimation">@anim/exit_to_left</item>
+        <item name="android:activityCloseEnterAnimation">@anim/enter_from_left</item>
+        <item name="android:activityCloseExitAnimation">@anim/exit_to_right</item>
+    </style>
+</resources>

@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Pomelo Identity</string>
+    <string name="main_title">Ingresá tu email y tu país para crear una sesión de validación de Identidad</string>
+    <string name="continuar">Continuar</string>
+    <string name="email">E-mail</string>
+    <string name="email_placeholder">juan@pomelo.la</string>
+    <string name="caption">Solo podrás hacer una validación con un único mail.</string>
+    <string name="country">País</string>
+    <string name="select">Seleccionar</string>
+</resources>
