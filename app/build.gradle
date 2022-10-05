@@ -21,7 +21,6 @@ android {
     productFlavors {
         stage {
             dimension = "default"
-            applicationIdSuffix ".stage"
             buildConfigField("String", "CLIENT_TOKEN_BASE_URL", '"CLIENT_TOKEN_BASE_URL"')
             buildConfigField("String", "USER_TOKEN_BASE_URL", '"USER_TOKEN_BASE_URL"')
             buildConfigField("String", "USER_BASE_URL", '"USER_BASE_URL"')
