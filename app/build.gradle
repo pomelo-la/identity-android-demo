@@ -4,12 +4,13 @@ plugins {
 }
 
 android {
-    compileSdk 32
+    namespace 'com.demo.pomelo'
+    compileSdk 33
 
     defaultConfig {
         applicationId "com.demo.pomelo"
         minSdk 26
-        targetSdk 32
+        targetSdk 33
         versionCode 1
         versionName "1.0"
 
@@ -51,11 +52,11 @@ android {
 }
 
 dependencies {
-    implementation 'com.pomelo:identity:0.0.31-SNAPSHOT'
+    implementation 'com.pomelo:identity:0.0.35-SNAPSHOT'
     implementation 'com.google.android.material:material:1.6.1'
-    implementation 'androidx.core:core-ktx:1.8.0'
+    implementation 'androidx.core:core-ktx:1.9.0'
     implementation 'com.auth0.android:jwtdecode:2.0.1'
-    implementation 'androidx.appcompat:appcompat:1.5.0'
+    implementation 'androidx.appcompat:appcompat:1.5.1'
     implementation 'com.google.android.material:material:1.6.1'
     implementation 'androidx.constraintlayout:constraintlayout:2.1.4'
     testImplementation 'junit:junit:4.13.2'
