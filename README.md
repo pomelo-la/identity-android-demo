@@ -25,6 +25,7 @@
 &nbsp;
 # Adding Identity
 ## 1. Import dependency
+Pomelo Identity is hosted in GitHub Packages. For more information refeer to their [site](https://docs.github.com/es/packages/learn-github-packages/installing-a-package)
 *settings.gradle*
 
 ``` groovy
