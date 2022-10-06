@@ -164,12 +164,11 @@ In your theme's xml add the following tags with your own images
 &nbsp;
 &nbsp;
 # Release Notes
+For a full list of versions refeer to this [link](https://github.com/pomelo-la/android-public/packages/1641499/versions)
 ## 1.0.0
 ##### Date 5/OCT/2022
 ### Overview
 Initial version of Pomelo Identity SDK for Android.
 Only for Argentina 🇦🇷
 ### Fixes
--
 ### Improvements
--
