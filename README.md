@@ -43,7 +43,7 @@ maven {
 
 ``` groovy
 dependencies {
-    com.pomelo:identity-android:1.0.0
+    com.pomelo:identity:1.0.0
 }
 ```
 Refer to *Release notes* for the latest version
