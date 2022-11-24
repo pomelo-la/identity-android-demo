@@ -32,7 +32,7 @@ Pomelo Identity is hosted in GitHub Packages. For more information refeer to the
 ``` groovy
 maven {  
     name = "Pomelo GitHubPackages Releases"  
-  url = uri("https://maven.pkg.github.com/pomelo-la/public/android")  
+  url = uri("https://maven.pkg.github.com/pomelo-la/android-public")  
     credentials {  
         username = "YOUR_USER_NAME" 
         password = "YOUR_ACCESS_TOKEN"
