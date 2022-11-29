@@ -167,6 +167,14 @@ In your theme's xml add the following tags with your own images
 &nbsp;
 # Release Notes
 For a full list of versions refeer to this [link](https://github.com/pomelo-la/android-public/packages/1641499/versions)
+## 1.1.0
+##### Date 29/NOV/2022
+### Overview
+### Fixes
+UI Fixes
+### Improvements
+Update 3rd party libraries version
+
 ## 1.0.0
 ##### Date 5/OCT/2022
 ### Overview
