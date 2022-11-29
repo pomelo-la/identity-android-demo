@@ -1,5 +1,4 @@
 <resources>
-    <string name="app_name">Pomelo Identity</string>
     <string name="main_title">Ingresá tu email y tu país para crear una sesión de validación de Identidad</string>
     <string name="continuar">Continuar</string>
     <string name="email">E-mail</string>
